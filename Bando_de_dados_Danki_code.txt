@@ -178,6 +178,5 @@ SELECT Product.*, Category.Name FROM Product INNER JOIN Category cat ON Product.
 
 ################################
 
-MONGODB - NÃO RELACIONAL - DANKI CODE
 
 
